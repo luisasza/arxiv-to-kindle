@@ -1,0 +1,7 @@
+.env
+.venv/
+data/
+kindle_papers.lock
+kindle_papers.log
+__pycache__/
+*.pyc
